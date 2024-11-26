@@ -1,0 +1,5 @@
+pandas==2.2.3
+selenium==4.27.0
+seleniumbase==4.32.12
+statsmodels
+seaborn
